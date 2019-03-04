@@ -2,7 +2,7 @@ package com.x.ray.rpn;
 
 import java.util.Scanner;
 
-import com.x.ray.rpn.Utils.Log;
+import com.x.ray.rpn.utils.Log;
 import com.x.ray.rpn.process.Processor;
 import com.x.ray.rpn.supports.OperatorSelector;
 

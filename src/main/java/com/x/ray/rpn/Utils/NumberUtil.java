@@ -1,4 +1,4 @@
-package com.x.ray.rpn.Utils;
+package com.x.ray.rpn.utils;
 
 import java.math.BigDecimal;
 

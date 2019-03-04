@@ -1,7 +1,7 @@
 package com.x.ray.rpn.operator;
 
-import com.x.ray.rpn.Utils.Log;
-import com.x.ray.rpn.Utils.NumberUtil;
+import com.x.ray.rpn.utils.Log;
+import com.x.ray.rpn.utils.NumberUtil;
 import com.x.ray.rpn.constants.InputType;
 import com.x.ray.rpn.constants.OpTypeAnno;
 import com.x.ray.rpn.domain.InputElement;

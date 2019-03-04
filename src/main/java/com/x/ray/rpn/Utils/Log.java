@@ -1,4 +1,4 @@
-package com.x.ray.rpn.Utils;
+package com.x.ray.rpn.utils;
 
 /**
  * 简单模拟一个log, 就不引入日志工具类了
