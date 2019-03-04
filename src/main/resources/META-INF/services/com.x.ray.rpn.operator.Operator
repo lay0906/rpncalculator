@@ -1,0 +1,10 @@
+com.x.ray.rpn.operator.AddOperator
+com.x.ray.rpn.operator.ClearOperator
+com.x.ray.rpn.operator.DivOperator
+com.x.ray.rpn.operator.MinusOperator
+com.x.ray.rpn.operator.MultiOperator
+com.x.ray.rpn.operator.SqrtOperator
+com.x.ray.rpn.operator.EndOperatorWindows
+com.x.ray.rpn.operator.EndOperatorMac
+com.x.ray.rpn.operator.EndOperatorLinux
+com.x.ray.rpn.operator.UndoOperator
